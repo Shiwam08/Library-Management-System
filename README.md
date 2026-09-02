@@ -1,4 +1,4 @@
-# Library-Management-System-CS253-Assignment
+# Library-Management
 
 To run the system, type the following commands:
 g++ main.cpp -o main
